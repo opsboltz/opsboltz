@@ -1,4 +1,4 @@
-<h1 align="center">Yo, I'm Steven — aka opsboltz 👋</h1>
+<h1 align="center">Hello, I'm Steven — aka opsboltz 👋</h1>
 <p align="center">
   🚀 Tech Enthusiast | 🛡️ Cybersecurity Explorer | 🧠 Psychology Buff | 🛠️ Builder of Cool Stuff
 </p>
