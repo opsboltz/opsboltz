@@ -5,9 +5,17 @@
 
 ---
 
-## 🖥️ Terminal Specs
+## 🖥️ Specs
 
-> 🧠 Custom system with overclocked brain, Kali + Ubuntu dual-wield, and RAM full of side projects.
+```
+OS: Windows 11 (Build 23H2 - 22631)
+Resolution: 2560x1080 @ 60Hz
+CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
+GPU: NVIDIA GeForce GTX 1650
+Memory: 15.1 GB / 32.7 GB
+Disk1 Windows: 488.37 GB total 
+Disk2 Kali Linux: 2TB total
+```
 
 ---
 
@@ -73,34 +81,36 @@ Here are some of the tools, apps, and experiments I’ve built:
 ## 🔒 Cyber & CTF Side
 
 - 🧠 Top 7% on TryHackMe  
-- 💣 Crushed 50+ CTF problems and labs  
+- 💣 Crushed 60+ CTF labs on THM, plus many more on other platforms  
 - 🧰 Built tools for recon, automation, and analysis  
-- 🕵️‍♂️ Practicing red/blue team skills on the daily  
+- 🕵️‍♂️ Practicing red/blue team skills on the regular  
 
 ---
 
 ## 🔧 Currently Building
 
-- 🧠 Psychology-infused tech tools  
-- 🧪 CustomTkinter apps with practical usage  
-- 🔐 Automation & toolkit projects for CTF workflows  
-- 💼 Final stretch of A+ cert grind  
+- 🧠 Psychology-based AI  
+- 🧪 CustomTkinter apps that help with daily tasks  
+- 🔐 Automation & toolkits for CTF workflows  
+- 💼 Wrapping up my computer repair / Cisco A+ certification course  
 
 ---
 
 ## 😎 Fun Facts
 
-- 🧠 My brain runs Zsh, and my dreams boot in BIOS  
-- 🤖 I talk to ChatGPT like it’s my lab partner  
-- 🐍 I automate everything I can… even my README  
-- 🎮 Low ping. High thinking. Always tinkering.  
+- 🧠 I once had a document called **hacking_notes** from my early TryHackMe days — over 800+ lines before my system corrupted and I lost it all. That’s when I learned to back up everything.  
+- 🤖 I’ve been curious about how things work since I was 8 or 9 — I started looking into Unity just to figure out how pressing "A" made me jump.  
+- 🐍 I automate everything I can… I mean everything  
+- 🎮 I’m a gamer. I play Roblox, COD, CS2, Storror Parkour Pro, BTD6, Hitman 3, Rocket League, and more.  
+- 🗃️ Ill let you in on a small secret? I’ve always had folders like `pythonlife`, `jslife`, `bashlife`, `htmllife`, and `csslife` filled with categorized notes and projects — but those are private (of course).  
 
 ---
 
 ## 📫 Connect with Me
 
-> 💬 DM me if you vibe with cybersecurity, dev tools, or weird psychology-tech mashups.
+> 💬 DM me if you need to get in touch.
 
-- Email: TCPFUCKER@mail2tor.com 
+- 📧 Email: [TCPFUCKER@mail2tor.com](mailto:TCPFUCKER@mail2tor.com)  
+- 🧠 GitHub: [github.com/opsboltz](https://github.com/opsboltz)  
 
 ---
